@@ -1,0 +1,10 @@
+.loader-ajax {
+    position: fixed;
+    top: 40%;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    z-index: 100000;
+    display:none;
+    left:40%
+}
